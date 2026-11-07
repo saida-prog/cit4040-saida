@@ -7,6 +7,7 @@ A book of exactly 500 pages is not fatiguing, because the task says "over 500".
 ## Run
 
 ```
+cd session3
 javac Main.java
 java Main
 ```
@@ -19,4 +20,7 @@ Output:
 800 pages -> 1760 min
 ```
 
-`Practice.java` has the class exercises 01-05.
+## Files
+
+- `Main.java` - homework, the `readingTime` method
+- `Practice.java` - class exercises 01-05
