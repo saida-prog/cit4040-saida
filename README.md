@@ -18,3 +18,13 @@ cd src
 javac Main.java
 java Main
 ```
+
+## Session 3
+
+Homework and practice exercises are in `session3/`:
+
+```
+cd session3
+javac Main.java
+java Main
+```
